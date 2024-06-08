@@ -29,8 +29,10 @@ $(document).ready(function(){
         }
       },
       submitHandler: function(form) {
-        alert("Formulário enviado com sucesso, Obrigado!");
+        alert("Formulário enviado com sucesso. Obrigado!");
         form.submit();
-      }
+        event.preventDefault();
+    }
+    
     });
 });
