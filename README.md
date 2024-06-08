@@ -1,5 +1,7 @@
 Meu primeiro trabalho voluntario junto a comunidade código certo.
 
+Nesse protejo utilizei o bootstrap para a estrutura, sass para estilização e jquery para validação do formulario.
+
 Link do projeto https://trabalho-voluntario.vercel.app/
 
 
